@@ -1,0 +1,11 @@
+# Ignore everything by default.
+/*
+
+# Keep the ignore rules themselves in Git.
+!.gitignore
+
+# Project files to version.
+!/scripts/
+!/scripts/**
+!/downloads-test/
+!/downloads-test/**
